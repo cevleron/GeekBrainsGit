@@ -66,7 +66,6 @@ git checkout 'xxx'
 ```
 git merge 'название ветки'
 ```
-## 9. Vetka
 
 ## 10. Vetka 1.
 
